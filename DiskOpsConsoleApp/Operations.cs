@@ -54,7 +54,7 @@ namespace DiskOpsConsoleApp
         public static string GetFilePath(DirectoryInfo dirinfo, string filename)
         {
             string temp = "File not found";
-            //Console.WriteL(".");
+           // Console.Write(dirinfo.FullName);
             try
             {
                 foreach (FileInfo fileinfolist in dirinfo.GetFiles())

@@ -9,3 +9,14 @@ E:\DEV\New folder\DiskOpsConsoleApp\obj\Debug\netcoreapp2.1\DiskOpsConsoleApp.As
 E:\DEV\New folder\DiskOpsConsoleApp\obj\Debug\netcoreapp2.1\DiskOpsConsoleApp.AssemblyInfo.cs
 E:\DEV\New folder\DiskOpsConsoleApp\obj\Debug\netcoreapp2.1\DiskOpsConsoleApp.dll
 E:\DEV\New folder\DiskOpsConsoleApp\obj\Debug\netcoreapp2.1\DiskOpsConsoleApp.pdb
+E:\DEV\DiskOpsConsoleApp\DiskOpsConsoleApp\bin\Debug\netcoreapp2.1\DiskOpsConsoleApp.deps.json
+E:\DEV\DiskOpsConsoleApp\DiskOpsConsoleApp\bin\Debug\netcoreapp2.1\DiskOpsConsoleApp.runtimeconfig.json
+E:\DEV\DiskOpsConsoleApp\DiskOpsConsoleApp\bin\Debug\netcoreapp2.1\DiskOpsConsoleApp.runtimeconfig.dev.json
+E:\DEV\DiskOpsConsoleApp\DiskOpsConsoleApp\bin\Debug\netcoreapp2.1\DiskOpsConsoleApp.dll
+E:\DEV\DiskOpsConsoleApp\DiskOpsConsoleApp\bin\Debug\netcoreapp2.1\DiskOpsConsoleApp.pdb
+E:\DEV\DiskOpsConsoleApp\DiskOpsConsoleApp\obj\Debug\netcoreapp2.1\DiskOpsConsoleApp.csprojAssemblyReference.cache
+E:\DEV\DiskOpsConsoleApp\DiskOpsConsoleApp\obj\Debug\netcoreapp2.1\DiskOpsConsoleApp.csproj.CoreCompileInputs.cache
+E:\DEV\DiskOpsConsoleApp\DiskOpsConsoleApp\obj\Debug\netcoreapp2.1\DiskOpsConsoleApp.AssemblyInfoInputs.cache
+E:\DEV\DiskOpsConsoleApp\DiskOpsConsoleApp\obj\Debug\netcoreapp2.1\DiskOpsConsoleApp.AssemblyInfo.cs
+E:\DEV\DiskOpsConsoleApp\DiskOpsConsoleApp\obj\Debug\netcoreapp2.1\DiskOpsConsoleApp.dll
+E:\DEV\DiskOpsConsoleApp\DiskOpsConsoleApp\obj\Debug\netcoreapp2.1\DiskOpsConsoleApp.pdb

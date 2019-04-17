@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DEV\\New folder\\DiskOpsConsoleApp\\DiskOpsConsoleApp.csproj",
+      "projectUniqueName": "E:\\DEV\\DiskOpsConsoleApp\\DiskOpsConsoleApp\\DiskOpsConsoleApp.csproj",
       "projectName": "DiskOpsConsoleApp",
-      "projectPath": "E:\\DEV\\New folder\\DiskOpsConsoleApp\\DiskOpsConsoleApp.csproj",
+      "projectPath": "E:\\DEV\\DiskOpsConsoleApp\\DiskOpsConsoleApp\\DiskOpsConsoleApp.csproj",
       "packagesPath": "C:\\Users\\amitp\\.nuget\\packages\\",
-      "outputPath": "E:\\DEV\\New folder\\DiskOpsConsoleApp\\obj\\",
+      "outputPath": "E:\\DEV\\DiskOpsConsoleApp\\DiskOpsConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
