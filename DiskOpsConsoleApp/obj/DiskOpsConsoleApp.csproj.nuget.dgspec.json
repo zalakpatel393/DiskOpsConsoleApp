@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\DEV\\New folder\\DiskOpsConsoleApp\\DiskOpsConsoleApp.csproj": {}
+  },
+  "projects": {
+    "E:\\DEV\\New folder\\DiskOpsConsoleApp\\DiskOpsConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\DEV\\New folder\\DiskOpsConsoleApp\\DiskOpsConsoleApp.csproj",
+        "projectName": "DiskOpsConsoleApp",
+        "projectPath": "E:\\DEV\\New folder\\DiskOpsConsoleApp\\DiskOpsConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\amitp\\.nuget\\packages\\",
+        "outputPath": "E:\\DEV\\New folder\\DiskOpsConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\amitp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

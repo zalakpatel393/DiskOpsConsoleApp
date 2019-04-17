@@ -1,0 +1,11 @@
+E:\DEV\New folder\DiskOpsConsoleApp\bin\Debug\netcoreapp2.1\DiskOpsConsoleApp.deps.json
+E:\DEV\New folder\DiskOpsConsoleApp\bin\Debug\netcoreapp2.1\DiskOpsConsoleApp.runtimeconfig.json
+E:\DEV\New folder\DiskOpsConsoleApp\bin\Debug\netcoreapp2.1\DiskOpsConsoleApp.runtimeconfig.dev.json
+E:\DEV\New folder\DiskOpsConsoleApp\bin\Debug\netcoreapp2.1\DiskOpsConsoleApp.dll
+E:\DEV\New folder\DiskOpsConsoleApp\bin\Debug\netcoreapp2.1\DiskOpsConsoleApp.pdb
+E:\DEV\New folder\DiskOpsConsoleApp\obj\Debug\netcoreapp2.1\DiskOpsConsoleApp.csprojAssemblyReference.cache
+E:\DEV\New folder\DiskOpsConsoleApp\obj\Debug\netcoreapp2.1\DiskOpsConsoleApp.csproj.CoreCompileInputs.cache
+E:\DEV\New folder\DiskOpsConsoleApp\obj\Debug\netcoreapp2.1\DiskOpsConsoleApp.AssemblyInfoInputs.cache
+E:\DEV\New folder\DiskOpsConsoleApp\obj\Debug\netcoreapp2.1\DiskOpsConsoleApp.AssemblyInfo.cs
+E:\DEV\New folder\DiskOpsConsoleApp\obj\Debug\netcoreapp2.1\DiskOpsConsoleApp.dll
+E:\DEV\New folder\DiskOpsConsoleApp\obj\Debug\netcoreapp2.1\DiskOpsConsoleApp.pdb
